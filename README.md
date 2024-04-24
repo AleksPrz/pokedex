@@ -1,8 +1,10 @@
 # Pokédex
 
-This project is a graphical interface built in Java that provides information about the basic characteristics of Pokémon up to the ninth generation. The app uses a local csv file as a data source.
-The data was obtained directly from [https://pokeapi.co/](https://pokeapi.co/)
-This was a school project for my third semester of software engineering. I only translated the interface to english so the source code has some variable names in spanish.
+The project is a Java application that provides information about the basic characteristics of Pokémon up to the ninth generation. The app uses a local csv file as a data source.
+The data was obtained directly from [https://pokeapi.co/](https://pokeapi.co/).
+
+This was a school project for my third semester of software engineering. I only translated the interface to English, so the source code has some variable names in spanish.
+
 ## Features
 **Search**: The app provides a search tab where users can enter the name or id of a Pokémon to get detailed information.
 <table>
@@ -16,7 +18,7 @@ This was a school project for my third semester of software engineering. I only 
   </tr>
 </table>
 
-**Sort**: The sort tab allows sorting a complete list that includes all Pokémon according to different criteria, such as name, id, and statistics.
+**Sort**: The sort tab allows sorting a complete list that includes all Pokémon according to different criteria such as name, id, and statistics.
 <p align="center">
   <img src="img/sort.png" alt="Descripción opcional de la imagen" />
 </p>
